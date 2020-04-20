@@ -1,0 +1,12 @@
+.active{
+    background-color: teal;
+}
+
+.navBar{
+    display: flex;
+    list-style: none;
+}
+
+li{
+    margin-right: 1rem;
+}
